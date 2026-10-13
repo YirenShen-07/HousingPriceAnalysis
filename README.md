@@ -13,7 +13,7 @@ Python, Pandas, scikit-learn, Matplotlib, Seaborn, and ALEPython.
 - Partial Dependence Plots (PDP), Individual Conditional Expectation (ICE), Accumulated Local Effects (ALE), and held-out permutation importance.
 
 ## Explore and run
-Open [the notebook](Assignment6.ipynb) in Google Colab, supply the housing CSV, replace the personal Drive path, and install the listed dependencies. The setup currently retains course-template paths; adjust those before execution.
+Open [the notebook](housing_price_explainability.ipynb) in Google Colab, supply the housing CSV, replace the personal Drive path, and install the listed dependencies. The setup currently retains course-template paths; adjust those before execution.
 
 ## Data interpretation
 The target is median_house_value. Income and location are important features in the saved analysis.
