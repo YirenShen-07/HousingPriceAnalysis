@@ -1,0 +1,12 @@
+{
+  "seed": 42,
+  "split": "random 80/20",
+  "rows": 20640,
+  "train_rows": 16512,
+  "test_rows": 4128,
+  "source_sha256": "8a3727f4cf54ac1a327f69b1d5b4db54c5834ea81c6e4efc0d163300022a685e",
+  "preprocessing_fit": "training only",
+  "validation_scope": "random split; no spatial holdout or hyperparameter search",
+  "permutation_rows": 1200,
+  "ALE_bins": 15
+}
